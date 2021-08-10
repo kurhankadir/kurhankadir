@@ -2,6 +2,9 @@
 
 I am a Master's Student in the Geodesy and Geographical Information Technologies @ [Gebze Technical University](https://www.gtu.edu.tr/)
 
+### Education
+
+* **BS** in Geomatics Engineer (2016)
 
 ### Hi there 👋
 
