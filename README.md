@@ -1,8 +1,8 @@
 ## Kadir Kürhan
 
-I am a Master's Student in the Geodesy and Geographical Information Technologies @ [GEBZE TECHNICAL UNIVERSITY](https://www.gtu.edu.tr/)
-
 ### Education
+
+* **Master's Student** in Geodesy and Geographical Information Technologies @ [GEBZE TECHNICAL UNIVERSITY](https://www.gtu.edu.tr/)
 
 * **BS** in Geomatics Engineer @ [YILDIZ TECHNICAL UNIVERSITY](https://www.yildiz.edu.tr/) (2016)
 
