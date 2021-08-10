@@ -2,7 +2,7 @@
 
 ### Education
 
-* **Master's Student** in Geodesy and Geographical Information Technologies @ [GEBZE TECHNICAL UNIVERSITY](https://www.gtu.edu.tr/)
+* **MSc Student** in Geodesy and Geographical Information Technologies @ [GEBZE TECHNICAL UNIVERSITY](https://www.gtu.edu.tr/)
 
 * **BS** in Geomatics Engineer @ [YILDIZ TECHNICAL UNIVERSITY](https://www.yildiz.edu.tr/) (2016)
 
