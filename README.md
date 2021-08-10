@@ -1,6 +1,6 @@
 ## Kadir Kürhan
 
-I am an Master's Student in the Geodesy and Geographical Information Technologies @ [Gebze Technical University](https://www.gtu.edu.tr/)
+I am a Master's Student in the Geodesy and Geographical Information Technologies @ [Gebze Technical University](https://www.gtu.edu.tr/)
 
 
 ### Hi there 👋
